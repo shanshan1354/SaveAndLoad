@@ -6,6 +6,6 @@ public class BulletManager : MonoBehaviour
 {
     void Start()
     {
-        Destroy(gameObject, 3);
+        Destroy(gameObject, 3);//
     }
 }
